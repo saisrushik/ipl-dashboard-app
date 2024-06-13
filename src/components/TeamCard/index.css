@@ -1,0 +1,35 @@
+.link-item {
+  text-decoration: none;
+}
+.team-list-item {
+  height: 180px;
+  width: 400px;
+  padding: 10px;
+  margin: 20px;
+  background-color: #ffffff33;
+  border-width: 1px;
+  border-color: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.team-bg-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+}
+.team-logo {
+  height: 160px;
+  width: 140px;
+  margin: 5px;
+}
+.team-name-heading {
+  font-family: Bree Serif;
+  font-size: 28px;
+  color: #ffffff;
+  text-align: center;
+  margin: 5px;
+}

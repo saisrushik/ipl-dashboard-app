@@ -1,0 +1,43 @@
+.recent-match-list-item {
+  text-decoration: none;
+  background-color: #0f172a;
+  padding: 3px;
+  margin: 6px;
+  border-radius: 10px;
+  width: 30%;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.recent-match-list-item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 3px;
+  margin: 5px;
+}
+.recent-match-team-logo {
+  height: 230px;
+  width: 250px;
+}
+.recent-competing-team-heading {
+  font-family: 'Bree Serif';
+  font-size: 22px;
+  color: #ffffff;
+  margin: 5px;
+}
+.recent-match-result {
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  color: #ffffff;
+  margin: 5px;
+}
+.recent-match-status {
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  color: #ffffff;
+  margin: 5px;
+}

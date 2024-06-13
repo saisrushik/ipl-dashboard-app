@@ -1,0 +1,54 @@
+.latest-match-details-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #0f172a;
+  border-radius: 20px;
+}
+.match-details-content-container1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.opponent-name {
+  font-family: 'Bree Serif';
+  font-size: 25px;
+  color: #ffffff;
+}
+.match-date {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  color: #ffffff;
+}
+.venue {
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  color: #ffffff;
+}
+.result {
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  color: #ffffff;
+}
+.opponent-logo {
+  height: 70%;
+  width: 80%;
+  margin: 5px;
+}
+.match-details-content-container2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+}
+.match-heading {
+  font-family: 'Bree Serif';
+  font-size: 22px;
+  color: #ffffff;
+}
+.match-description {
+  font-family: 'Bree Serif';
+  font-size: 14px;
+  color: #ffffff;
+}
